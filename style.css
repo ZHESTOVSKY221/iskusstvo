@@ -508,8 +508,9 @@ body {
         display: block;
     }
 
-    .card2{
+    .card2 img{
         width: 90%;
+        height: auto;
     }
 
     .kulturi-zagolovok {
@@ -519,3 +520,4 @@ body {
         text-align: center;
 }
 }
+
